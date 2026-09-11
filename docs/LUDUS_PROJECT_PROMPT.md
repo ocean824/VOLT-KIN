@@ -1,0 +1,2 @@
+# Ludus Project Prompt — VOLT//KIN
+Initialize `ocean824/VOLT-KIN` Unreal production/reference build under XYRA. Foundation Narrative Pro 2 + Ultra; Pocket Creature Tamer, approved combat framework, Element Reaction and mech assets are accelerators. VOLT owns Kin, modular parts, evolution/fusion, combat/traversal and save/network truth. Execute active CodeSpring manifest only; plan/ownership review→implement→compile→validate→attack/fix→evidence. Preserve golden Kin/lineage/combat/save fixtures for AXIOM. Escalate signature-system changes to Ø.
