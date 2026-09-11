@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Work package: ID/requirements/objective/non-goals/dependencies/governing+task docs/subsystem owner/targets/acceptance/Gauntlet/migrations. Sync governing + active package into `Docs/XYRA`; selective context only. Branch `feature/VOLT-WP-XXXX`, Git/LFS for Unreal binaries, exclude generated folders. Ludus evidence is independently reviewed before promotion.
